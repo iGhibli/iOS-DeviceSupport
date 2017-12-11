@@ -27,6 +27,8 @@ See docs: [https://ighibli.github.io/2017/03/28/Could-not-locate-device-support-
 4. iOS11
 	* 11.0 `2017/12/05`
 	* 11.1 (15B87)	`2017/12/05`
+	* 11.1 `2017/12/11`
+	* 11.2 (15C107)	`2017/12/11`
 	
 
  	
