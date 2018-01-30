@@ -29,6 +29,7 @@ See docs: [https://ighibli.github.io/2017/03/28/Could-not-locate-device-support-
 	* 11.1 (15B87)	`2017/12/05`
 	* 11.1 `2017/12/11`
 	* 11.2 (15C107)	`2017/12/11`
+	* 11.3 (15E5167d)	`2018/01/30`
 	
 
  	
