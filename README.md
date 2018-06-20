@@ -37,6 +37,7 @@ See docs: [https://ighibli.github.io/2017/03/28/Could-not-locate-device-support-
 	* 11.4 `2018/06/07`
 5. iOS12
 	* 12.0 (16A5288q)	`2018/06/07`
+	* 12.0 (16A5308d)	`2018/06/19`
 	
 
  	
