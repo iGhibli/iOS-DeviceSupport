@@ -3,6 +3,28 @@ This repository holds the device support files for the iOS, and I will update it
 
 ### Usage:
 See docs: [https://ighibli.github.io/2017/03/28/Could-not-locate-device-support-files/](https://ighibli.github.io/2017/03/28/Could-not-locate-device-support-files/)
+
+Below command will try to unzip all new device support files to `/Applications/Xcode.app`.
+
+```sh
+sudo ./deploy.py
+```
+
+You can use `-t` if your Xcode is not in `/Applications/` or has different name.
+
+```sh
+sudo ./deploy.py -t /Applications/Xcode\ 9.app
+```
+
+```sh
+./deploy.py -h
+usage: deploy.py [-h] [-t TARGET]
+
+optional arguments:
+  -h, --help  show this help message and exit
+  -t TARGET   The path for Xcode
+```
+
 ### Supported versions:
 1. iOS8
 	* 8.0	`2017/04/07`
