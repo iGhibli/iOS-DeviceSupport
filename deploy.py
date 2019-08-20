@@ -12,11 +12,15 @@ def unzip_file(name, target):
   zip_ref.extractall(target)
   zip_ref.close()
 
-def process(xcode):
+def process(xcode, version):
   target = path.join(xcode, DEVICE_SUPPORT_PATH)
   exist = listdir(target)
   all_files = [i.replace('.zip', '') for i in listdir(SRC) if i.endswith('.zip')]
   new_files = list(set(all_files) - set(exist))
+
+  if version:
+      new_files = list(filter(lambda x : version in x, new_files))
+
   for i in new_files:
     print 'Unzip file "{}.zip" to {}'.format(i, target)
     unzip_file(i, target)
@@ -31,5 +35,12 @@ if __name__ == '__main__':
     default='/Applications/Xcode.app',
     help='The path for Xcode'
   )
+  parser.add_argument(
+    '-v',
+    type=str,
+    dest='version',
+    default=None,
+    help='Specific version (default is all)'
+  )
   args = parser.parse_args()
-  process(args.target)
+  process(args.target, args.version)
