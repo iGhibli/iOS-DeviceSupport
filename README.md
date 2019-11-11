@@ -88,3 +88,4 @@ optional arguments:
    * 13.0 (FromXcode_11_Beta_7_xip) `2019/09/03`
    * 13.1 `2019/08/28`
    * 13.2 `2019/10/02`
+   * 13.2 (FromXcode_11.2.1_GM_Seed) `2019/11/11`
