@@ -20,11 +20,12 @@ sudo ./deploy.py -t /Applications/Xcode\ 9.app
 
 ```sh
 ./deploy.py -h
-usage: deploy.py [-h] [-t TARGET]
+usage: deploy.py [-h] [-t TARGET] [-v VERSION]
 
 optional arguments:
   -h, --help  show this help message and exit
   -t TARGET   The path for Xcode
+  -v VERSION  Specific version (default is all)
 ```
 
 ## Supported versions
