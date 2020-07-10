@@ -95,4 +95,10 @@ optional arguments:
    * 13.4 (FromXcode11.5 (11E608c)) `2020/05/22`
    * 13.5 (FromXocde_Beta_11.5) `2020/05/16`
    * 13.5 (FromXcode11.5 (11E608c)) `2020/05/22`
+   * 13.5 (FromXcode_12_beta_2_xip) `2020/07/10`
+   * 13.6 (FromXcode_12_beta_2_xip `2020/07/10`
+7. iOS14
    * 14.0 (FromXcode_12_beta.xip) `2020/06/23`
+   * 14.0 (FromXcode_12_beta_2_xip `2020/07/10`
+
+---
