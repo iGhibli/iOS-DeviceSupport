@@ -100,5 +100,6 @@ optional arguments:
 7. iOS14
    * 14.0 (FromXcode_12_beta.xip) `2020/06/23`
    * 14.0 (FromXcode_12_beta_2_xip `2020/07/10`
+   * 14.0 (FromXcode_12_beta_3_xip `2020/07/24`
 
 ---
