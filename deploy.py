@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import platform
 import zipfile
 from argparse import ArgumentParser
 from os import listdir, path
@@ -29,21 +30,25 @@ def process(xcode, version):
 	print('\nUpdate successfully for {}'.format(xcode))
 
 if __name__ == '__main__':
-	parser = ArgumentParser()
-	parser.add_argument(
-		'-t',
-		type=str,
-		dest='target',
-		default='/Applications/Xcode.app',
-		help='The path for Xcode'
-  )
-	parser.add_argument(
-		'-v',
-		type=str,
-		dest='version',
-		default=None,
-		help='Specific version (default is all)'
-  )
-	args = parser.parse_args()
-	process(args.target, args.version)
+
+	if platform.system() == 'Darwin':
+		parser = ArgumentParser()
+		parser.add_argument(
+			'-t',
+			type=str,
+			dest='target',
+			default='/Applications/Xcode.app',
+			help='The path for Xcode'
+	  )
+		parser.add_argument(
+			'-v',
+			type=str,
+			dest='version',
+			default=None,
+			help='Specific version (default is all)'
+	  )
+		args = parser.parse_args()
+		process(args.target, args.version)
+	else:
+		print('This is for MacOS/OS X devices only!')
 
