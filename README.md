@@ -104,5 +104,6 @@ optional arguments:
    * 14.0 (FromXcode_12_beta_3_xip `2020/07/24`
    * 14.0 (FromXcode_12_beta_4_xip `2020/08/07`
    * 14.0 (FromXcode_12_beta_5_xip `2020/08/18`
+   * 14.0 (FromXcode_12_beta_6_xip `2020/08/28`
 
 ---
