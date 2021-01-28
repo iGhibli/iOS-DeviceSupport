@@ -116,9 +116,12 @@ optional arguments:
    * 14.2 (FromXcode_12.2_beta_3_xip) `2020/10/15`
    * 14.2 (FromXcode_12.2_Release_Candidate_xip) `2020/11/09`
    * 14.2 (FromXcode_12.3_beta_xip) `2020/11/20`
+   * 14.2 (FromXcode_12.4(12D4e)) `2021/01/28`
    * 14.3 (FromXcode_12.3_beta_xip) `2020/11/20`
    * 14.3 (FromXcode_12.3_Release_Candidate_xip) `2020/12/09`
+   * 14.3 (FromXcode_12.4(12D4e)) `2021/01/28`
    * 14.4 (FromXcode_12.4_Release_Candidate_xip) `2021/01/27`
+   * 14.4 (FromXcode_12.4(12D4e)) `2021/01/28`
 
 
 ---
