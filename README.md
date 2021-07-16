@@ -132,6 +132,7 @@ optional arguments:
 8. iOS15
    * 15.0 (FromXcode_13_beta.xip) `2021/06/08`
    * 15.0 (FromXcode_13_beta_2.xip) `2021/07/01`
+   * 15.0 (FromXcode_13_beta_3.xip) `2021/07/16`
 
 
 ---
