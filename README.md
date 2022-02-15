@@ -136,6 +136,6 @@ optional arguments:
    * 15.0 (FromXcode_13_beta_3.xip) `2021/07/16`
    * 15.0 (FromXcode_13_beta_4.xip) `2021/08/03`
    * 15.0 (FromXcode_13_beta_5.xip) `2021/08/20`
-
+   * 15.0 (FromXcode_13_Release_Candidate.xip) `2021/09/16`
 
 ---
