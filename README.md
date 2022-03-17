@@ -141,5 +141,6 @@ optional arguments:
    * 15.2 (FromXcode_13.2.1(13C100)) `2022/02/15`
    * 15.2 (FromXcode_13.3_beta_2.xip) `2022/02/16`
    * 15.4 (FromXcode_13.3_beta_2.xip) `2022/02/16`
+   * 15.4 (FromXcode_13.3(13E113)) `2022/03/17`
 
 ---
