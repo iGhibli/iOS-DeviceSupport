@@ -29,10 +29,11 @@ optional arguments:
 
 ## Supported versions
 0. **Most recent releases:**</br>
-   * iOS 16.0 - [Download](/DeviceSupport/16.0.zip) </br>
+   * iOS 16.1 - [Download](/DeviceSupport/16.1.zip) </br>
 
 1. iOS16
    * 16.0 (FromXcode_14_beta.xip) `2022/06/07`
+   * 16.1 (FromXcode_14.1_beta.xip) `2022/09/14`
 2. iOS15
    * 15.0 (FromXcode_13_beta.xip) `2021/06/08`
    * 15.0 (FromXcode_13_beta_2.xip) `2021/07/01`
