@@ -147,4 +147,6 @@ optional arguments:
 9. iOS16
    * 16.0 (FromXcode_14_beta.xip) `2022/06/07`
    * 16.0 (FromXcode_14_beta_2.xip) `2022/06/27`
+   * 16.0 (FromXcode_14_beta_4.xip (14A5270f)) `2022/07/24`
+
 ---
