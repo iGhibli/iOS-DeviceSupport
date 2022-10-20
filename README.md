@@ -146,13 +146,17 @@ optional arguments:
    * 15.5 (FromXcode_13.4(13F17a)) `2022/05/27`
    * 15.5 (FromXcode_14.0.1_Release_Candidate.xip) `2022/09/20`
    * 15.6 (FromXcode_13.3)
+   * 15.6 (FromXcode_14.1_Release_Candidate.xip) `2022/10/20`
+   * 15.7 (FromXcode_14.1_Release_Candidate.xip) `2022/10/20`
 9. iOS16
    * 16.0 (FromXcode_14_beta.xip) `2022/06/07`
    * 16.0 (FromXcode_14_beta_2.xip) `2022/06/27`
    * 16.0 (FromXcode_14_beta_4.xip (14A5270f)) `2022/07/24`
    * 16.0 (FromXcode_14.xip) `2022/09/12`
    * 16.0 (FromXcode_14.0.1_Release_Candidate.xip) `2022/09/20`
+   * 16.0 (FromXcode_14.1_Release_Candidate.xip) `2022/10/20`
    * 16.1 (FromXcode_14.1_beta.xip) `2022/09/14`
    * 16.1 (FromXCode_14.1(14B5024h)) `2022/09/16`
+   * 16.1 (FromXcode_14.1_Release_Candidate.xip) `2022/10/20`
 
 ---
