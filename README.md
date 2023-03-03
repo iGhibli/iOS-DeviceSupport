@@ -158,5 +158,7 @@ optional arguments:
    * 16.1 (FromXcode_14.1_beta.xip) `2022/09/14`
    * 16.1 (FromXCode_14.1(14B5024h)) `2022/09/16`
    * 16.1 (FromXcode_14.1_Release_Candidate.xip) `2022/10/20`
+   * 16.1 (FromXcode_14.3_beta_2.xip) `2023/03/03`
+   * 16.4 (FromXcode_14.3_beta_2.xip) `2023/03/03`
 
 ---
