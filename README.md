@@ -160,5 +160,6 @@ optional arguments:
    * 16.1 (FromXcode_14.1_Release_Candidate.xip) `2022/10/20`
    * 16.1 (FromXcode_14.3_beta_2.xip) `2023/03/03`
    * 16.4 (FromXcode_14.3_beta_2.xip) `2023/03/03`
+   * 16.4 (FromXcode_14.3(14E222b)) `2023/04/04`
 
 ---
