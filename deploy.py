@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3 
 import argparse
 import zipfile
 from os import listdir, path
@@ -22,9 +22,9 @@ def process(xcode, version):
       new_files = list(filter(lambda x : version in x, new_files))
 
   for i in new_files:
-    print 'Unzip file "{}.zip" to {}'.format(i, target)
+    print ('Unzip file "{}.zip" to {}'.format(i, target))
     unzip_file(i, target)
-  print '\nUpdate successfully for {}'.format(xcode)
+  print ('\nUpdate successfully for {}'.format(xcode))
 
 if __name__ == '__main__':
   parser = argparse.ArgumentParser()
